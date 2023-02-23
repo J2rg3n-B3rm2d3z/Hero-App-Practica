@@ -1,1 +1,1 @@
-Esta es una practica que realice al tomar un curso de React con Typescript con Fernando Herrera
+Esta es una practica que realice al tomar un curso de React con Typescript con Fernando Herrera usando RouteV6
